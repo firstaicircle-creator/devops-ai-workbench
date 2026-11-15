@@ -10,6 +10,8 @@ Public portfolio repo. Read by recruiters.
 - Backdate commits or describe work that was not run.
 - Run `terraform apply` without confirming the AWS budget alert exists; always finish with `terraform destroy` and a leftover-resource check.
 - Push without asking me.
+- Copy or name any former employer's internal training material, programmes, or environments. Projects here are original re-implementations.
+- Bypass the local pre-commit guard (`--no-verify`).
 
 ## Conventions
 
