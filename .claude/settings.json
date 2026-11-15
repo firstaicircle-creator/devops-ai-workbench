@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "deny": [
+      "Bash(terraform apply -auto-approve:*)",
+      "Read(./.env)",
+      "Read(./.env.*)"
+    ]
+  }
+}

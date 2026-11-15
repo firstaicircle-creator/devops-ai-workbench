@@ -1,0 +1,27 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+credentials*
+
+# Drafts and local notes
+drafts/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+.terraform.lock.hcl
+
+# Python / Node
+__pycache__/
+.venv/
+node_modules/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
